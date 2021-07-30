@@ -1,0 +1,4 @@
+brach bala 1st change committed
+branch bala second change
+moving bala branch to n
+file has been moved from bala to n now moving to main hub as n branch
